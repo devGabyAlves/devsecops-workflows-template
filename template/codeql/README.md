@@ -1,4 +1,4 @@
-# Template de Workflow CodeQL 
+# Template de Workflow CodeQL (SAST)
 
 Este repositório fornece um workflow pronto para uso no GitHub Actions utilizando o CodeQL para análise estática de código (SAST).
 
